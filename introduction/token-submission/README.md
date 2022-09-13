@@ -1,28 +1,38 @@
 # Token Submission
 
-You can submit an issue here to get started.
+### Extend your Ethereum Dapp to IoTeX
 
-{% embed url="https://github.com/iotubeproject/ioTube/issues/new/choose" %}
+Any Dapp developer that has deployed a token on any of the blockchains supported by ioTube can [submit their token](https://github.com/iotubeproject/ioTube/issues/new?assignees=guo\&labels=Token-Pending-Review\&template=iotube-new-token-submission.md\&title=New+Token+submission) to be added to the bridge. Together with IoTeX's full [Web3 compatibility](broken-reference), you can now extend your Dapp to IoTeX in no time, gaining access to trusted [verifiable IoT data](broken-reference), and run transaction-intensive tasks thanks to the IoTeX **ultra-fast** and low-fees transactions**.**
+
+👉 [**Submit your token to ioTube**](https://github.com/iotexproject/ioTube/issues/new?assignees=guo\&labels=Token-Pending-Review\&template=iotube-new-token-submission.md\&title=New+Token+submission)
+
+### **Supported chains**
+
+You can currently use ioTube to bridge tokens from the following blockchains to IoTeX:
+
+* Ethereum
+* Binance Smart Chain
+* Polygon
+* Huobi Eco Chain
 
 ### Guidelines for tokens
 
-We will only take into consideration projects that
+We will only take into consideration projects that:
 
-* does not represent any type of cryptocurrency "scam" e.g. project counterfeit and others.
-* shows clear signs of activity: either traffic on the network, activity on GitHub, or community buzz.
+* Do NOT represent any type of cryptocurrency "scam" e.g. project counterfeit and others.
+* Show clear signs of activity: Either traffic on the network, activity on GitHub, or community buzz.
 
 In addition:
 
-* Only tokens from Ethereum, Binance Smart Chain or Polygon can be bridged to IoTeX at the moment.
 * The token icon should be small, square, but high resolution, ideally a vector/svg.
 * Make sure your website includes a detailed explanation of project and the token contract address.
-* No Profanity in token name, token description, etc.
-* Token contract has to be verified on explorers
-* The submitter has to be verified author from the token's project
+* No profanity in token name, token description, etc.
+* Token contract has to be verified on explorers.
+* The submitter has to be verified author from the token's project.
 
 ### Verification of the token
 
-Please provide the verification of your token in one of the following ways.
+Please provide the verification of your token in one of the following ways:
 
 1. Token address on your website. Please specify the link.
 2. CMC / Coingecko profile link with token contract address and link to website/social.

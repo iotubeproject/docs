@@ -19,3 +19,4 @@
 ## Extra <a href="#token-naming" id="token-naming"></a>
 
 * [Naming Convention](token-naming/naming-convention.md)
+* [Join the Bridge consensus](token-naming/join-the-bridge-consensus.md)

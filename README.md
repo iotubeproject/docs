@@ -2,7 +2,9 @@
 
 ### **Introducing ioTube**
 
-[ioTube](https://iotube.org) is the decentralized bridge for connecting Ethereum, Binance Smart Chain, Polygon (Matic), and IoTeX. [ioTube ](https://iotube.org)enables bi-directional exchange of tokens between [IoTeX](https://iotex), [Ethereum](https://ethereum.org), [Binance Smart Chain](https://www.binance.org/en/smartChain), and now [Polygon](https://polygon.technology)!&#x20;
+[ioTube](https://iotube.org) is a cross-chain bridge designed to be decentralized, multi-chain, and multi-asset.
+
+[ioTube ](https://iotube.org/)enables bi-directional exchange of tokens between [IoTeX](https://iotex), [Ethereum](https://ethereum.org), [Binance Smart Chain](https://www.binance.org/en/smartChain), and now [Polygon](https://polygon.technology/)!&#x20;
 
 ![](.gitbook/assets/image.png)
 
@@ -29,4 +31,4 @@ For any questions, please reach out to an Admin on [Discord](https://iotex.io/de
 
 ⭐️ **IoTeX & Polygon:** _learn more about our_ [_partnership_](https://iotex.medium.com/iotex-polygon-matic-partner-for-real-world-nfts-on-opensea-cross-chain-bridge-8506e5e23773) _with Polygon._
 
-⭐ **New ioTube URL:** _access ioTube at our new URL_ [_iotube.org_](https://iotube.org)
+⭐ **New ioTube URL:** _access ioTube at our new URL_ [_iotube.org_](https://iotube.org/)

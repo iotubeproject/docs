@@ -14,4 +14,4 @@
 
 Any bug report or feedback?&#x20;
 
-Please submit an issue on GitHub, or discuss it at: [https://discord.gg/jRqqSyGfUD](https://discord.gg/jRqqSyGfUD).
+Please submit an issue on [GitHub](https://github.com/iotubeproject/ioTube/issues/new/choose), or discuss it on our [Discord](https://discord.gg/jRqqSyGfUD).
