@@ -1,8 +1,8 @@
 # Token Submission
 
-### Extend your Ethereum Dapp to IoTeX
+### Extend your dApp to IoTeX
 
-Any Dapp developer that has deployed a token on any of the blockchains supported by ioTube can [submit their token](https://github.com/iotubeproject/ioTube/issues/new?assignees=guo\&labels=Token-Pending-Review\&template=iotube-new-token-submission.md\&title=New+Token+submission) to be added to the bridge. Together with IoTeX's full [Web3 compatibility](broken-reference), you can now extend your Dapp to IoTeX in no time, gaining access to trusted [verifiable IoT data](broken-reference), and run transaction-intensive tasks thanks to the IoTeX **ultra-fast** and low-fees transactions**.**
+Any dApp developer that has deployed a token on any of the blockchains supported by ioTube can [submit their token](https://github.com/iotubeproject/ioTube/issues/new?assignees=guo\&labels=Token-Pending-Review\&template=iotube-new-token-submission.md\&title=New+Token+submission) to be added to the bridge. Together with IoTeX's full [Web3 compatibility](broken-reference), you can now extend your dApp to IoTeX in no time, gaining access to trusted [verifiable IoT data](broken-reference), and run transaction-intensive tasks thanks to the IoTeX **ultra-fast** and low-fees transactions**.**
 
 👉 [**Submit your token to ioTube**](https://github.com/iotexproject/ioTube/issues/new?assignees=guo\&labels=Token-Pending-Review\&template=iotube-new-token-submission.md\&title=New+Token+submission)
 
@@ -13,7 +13,6 @@ You can currently use ioTube to bridge tokens from the following blockchains to 
 * Ethereum
 * Binance Smart Chain
 * Polygon
-* Huobi Eco Chain
 
 ### Guidelines for tokens
 
@@ -41,11 +40,11 @@ Please provide the verification of your token in one of the following ways:
 
 There is a one-time fee to cover the smart contract deployment and testing. The current fee structure is&#x20;
 
-| First Header      | Second Header |
-| ----------------- | ------------- |
-| From/To BSC       | 0.2 BNB       |
-| From/To Matic     | 25 Matic      |
-| From/To Ethereum  | 0.5 ETH       |
+| Blockchains       | Integration Fee |
+| ----------------- | --------------- |
+| From/To BSC       | 0.1 BNB         |
+| From/To Matic     | 20 MATIC        |
+| From/To Ethereum  | 0.3 ETH         |
 
 If your request involves multiple blockchains, you may add them up as the integration fee.
 
