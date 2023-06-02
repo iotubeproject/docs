@@ -14,7 +14,7 @@
 * [Ethereum](deployment/ethereum-iotex.md)
 * [Binance Smart Chain](deployment/bsc-iotex.md)
 * [Polygon (Matic)](deployment/polygon-iotex.md)
-* [Cross-chain Tokens](deployment/crosschain-tokens.md)
+* [CIOTX (Crosschain IOTX)](deployment/crosschain-tokens.md)
 
 ## Extra <a href="#token-naming" id="token-naming"></a>
 
