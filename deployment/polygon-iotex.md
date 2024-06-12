@@ -3,16 +3,16 @@
 ### Contracts on IoTeX
 
 {% tabs %}
-{% tab title="IoTeX Address Format" %}
-
-
-<table><thead><tr><th width="212.37034895811334">Name</th><th width="464.887461637422">Contracts</th><th data-hidden data-type="checkbox">.</th></tr></thead><tbody><tr><td>Validator</td><td><code>io10xr64as4krm5nufd5l2ddc43al6tl0smumkg7y</code></td><td>false</td></tr><tr><td>Standard Token list</td><td><code>io197rk3nff9622pkncvuvhfwyms73esdtwph4rlq</code></td><td>false</td></tr><tr><td>Proxy Token list</td><td><code>io16at6mlcwcsrqutz2zhuhwam87h988r9fcdauk8</code></td><td>false</td></tr><tr><td>Token Cashier</td><td><code>io12s9f9hv4zsr7umy5hxt6g0k0xr4x6pxdp5w998</code></td><td>false</td></tr><tr><td>Token safe</td><td><code>io1cj3f498390srqv765nnvaxuk0rpxyadzpfjz75</code></td><td>false</td></tr><tr><td>Token Cashier Router</td><td><code>io1lhcayfrcqx0hyad9htz22wxl30ntrlvwr8w2xh</code></td><td>false</td></tr><tr><td>Minter pool</td><td><code>0x4799d57abf5f12ca4ef5375c9dadf8fe7fa5a454</code></td><td>false</td></tr></tbody></table>
-{% endtab %}
-
 {% tab title="Web3 Address Format" %}
 
 
 <table><thead><tr><th width="216.4767534940814">Name</th><th width="490.70460038426626">Contracts</th><th data-hidden data-type="checkbox">.</th></tr></thead><tbody><tr><td>Validator</td><td><code>0x7987aaf615b0f749f12da7d4d6e2b1eff4bfbe1b</code></td><td>false</td></tr><tr><td>Standard Token list</td><td><code>0x2F8768cD292E94A0Da78671974B89B87a398356E</code></td><td>false</td></tr><tr><td>Proxy Token list</td><td><code>0xD757adFF0eC4060e2c4A15f9777767f5Ca738Ca9</code></td><td>false</td></tr><tr><td>Token Cashier</td><td><code>0x540a92dd951407ee6c94b997a43ecf30ea6d04cd</code></td><td>false</td></tr><tr><td>Token safe</td><td><code>0xc4A29a94f12be03033daa4e6Ce9b9678c26275a2</code></td><td>false</td></tr><tr><td>Token Cashier Rouer</td><td><code>0xfdf1d22478019f7275A5Bac4a538df8be6B1fd8E</code></td><td>false</td></tr><tr><td>Minter pool</td><td><code>0x4799d57abf5f12ca4ef5375c9dadf8fe7fa5a454</code></td><td>false</td></tr></tbody></table>
+{% endtab %}
+
+{% tab title="IoTeX Address Format" %}
+
+
+<table><thead><tr><th width="212.37034895811334">Name</th><th width="464.887461637422">Contracts</th><th data-hidden data-type="checkbox">.</th></tr></thead><tbody><tr><td>Validator</td><td><code>io10xr64as4krm5nufd5l2ddc43al6tl0smumkg7y</code></td><td>false</td></tr><tr><td>Standard Token list</td><td><code>io197rk3nff9622pkncvuvhfwyms73esdtwph4rlq</code></td><td>false</td></tr><tr><td>Proxy Token list</td><td><code>io16at6mlcwcsrqutz2zhuhwam87h988r9fcdauk8</code></td><td>false</td></tr><tr><td>Token Cashier</td><td><code>io12s9f9hv4zsr7umy5hxt6g0k0xr4x6pxdp5w998</code></td><td>false</td></tr><tr><td>Token safe</td><td><code>io1cj3f498390srqv765nnvaxuk0rpxyadzpfjz75</code></td><td>false</td></tr><tr><td>Token Cashier Router</td><td><code>io1lhcayfrcqx0hyad9htz22wxl30ntrlvwr8w2xh</code></td><td>false</td></tr><tr><td>Minter pool</td><td><code>0x4799d57abf5f12ca4ef5375c9dadf8fe7fa5a454</code></td><td>false</td></tr></tbody></table>
 {% endtab %}
 {% endtabs %}
 
