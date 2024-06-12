@@ -46,7 +46,7 @@ For minting (i.e., issuing _Proxy_ assets), the _**TokenValidator**_ contract en
 
 That’s it!&#x20;
 
-After tokens are _bridged_ to IoTeX, Ethereum, BSC, or Polygon they may be traded on the respective decentralized exchanges, including [mimo](http://mimo.exchange) (on IoTeX), [Quickswap](overview-and-architecture.md#overview) (on Polygon), [Uniswap](https://uniswap.org) (on Ethereum), and [PancakeSwap](https://pancakeswap.finance) (on Binance Smart Chain).&#x20;
+After tokens are _bridged_ to IoTeX, Ethereum, BSC, or Polygon they may be traded on the respective decentralized exchanges, including [mimo](http://mimo.exchange/) (on IoTeX), [Quickswap](overview-and-architecture.md#overview) (on Polygon), [Uniswap](https://uniswap.org/) (on Ethereum), and [PancakeSwap](https://pancakeswap.finance) (on Binance Smart Chain).&#x20;
 
 Stay tuned for even more cross-chain integrations to leading blockchain networks in the near future! Check out the ioTube open-source code [here](https://github.com/iotexproject/ioTube):
 

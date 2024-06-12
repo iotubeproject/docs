@@ -8,12 +8,7 @@ If you have special need for your bridged token, you will need to create your ow
 2. Add your customized code to the sol file.  (You can contact us for a code review)
 3.  Deploy the smart contract with parameters&#x20;
 
-    | \_coToken  | <p>The token address of your token</p><p><strong>0x00 address (if not on source chain)</strong></p>                                                                                                                            |
-    | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-    | \_minter   | <p>IoTeX: 0x4799d57abf5f12ca4ef5375c9dadf8fe7fa5a454<br>BSC:<br>0xf72CFb704d49aC7BB7FFa420AE5f084C671A29be<br>ETH:<br>0x964f4f19bc823e72cc1f806021937cfc06f63b45<br>Polygon:<br>0x12af43ef94B05A0a3447A05eEE629C7D88A30a5f</p> |
-    | \_name     | Token's name                                                                                                                                                                                                                   |
-    | \_symbol   | Token's Symbol                                                                                                                                                                                                                 |
-    | \_decimals | Token's decimals                                                                                                                                                                                                               |
+    <table data-header-hidden><thead><tr><th width="150"></th><th></th></tr></thead><tbody><tr><td>_coToken</td><td><p>The token address of your token</p><p><strong>0x00 address (if not on source chain)</strong></p></td></tr><tr><td>_minter</td><td>IoTeX: 0x4799d57abf5f12ca4ef5375c9dadf8fe7fa5a454<br>BSC:<br>0xf72CFb704d49aC7BB7FFa420AE5f084C671A29be<br>ETH:<br>0x964f4f19bc823e72cc1f806021937cfc06f63b45<br>Polygon:<br>0x12af43ef94B05A0a3447A05eEE629C7D88A30a5f</td></tr><tr><td>_name</td><td>Token's name</td></tr><tr><td>_symbol</td><td>Token's Symbol</td></tr><tr><td>_decimals</td><td>Token's decimals</td></tr></tbody></table>
 
 
 4. Verify your code on blockchain explorer

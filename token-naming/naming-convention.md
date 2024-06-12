@@ -42,10 +42,7 @@ In short, the naming convention says to:
 
 ### Bridged from BSC
 
-| Symbol on BSC | Symbol on IoTeX | Symbol on IoTeX (new) |
-| ------------- | --------------- | --------------------- |
-| `BNB/WBNB`    | `BNB-bsc`       | `BNB`                 |
-| `BUSD`        | `BUSD-bsc`      | `BUSD_b`              |
+<table><thead><tr><th width="183.80672258908592">Symbol on BSC</th><th width="285.5917058897972">Symbol on IoTeX</th><th>Symbol on IoTeX (new)</th></tr></thead><tbody><tr><td><code>BNB/WBNB</code></td><td><code>BNB-bsc</code></td><td><code>BNB</code></td></tr><tr><td><code>BUSD</code></td><td><code>BUSD-bsc</code></td><td><code>BUSD_b</code></td></tr></tbody></table>
 
 ### Tokens bridged from Polygon
 
@@ -63,7 +60,7 @@ In short, the naming convention says to:
 
 _For the full list of all tokens supported by iotube, please visit_
 
-__[_https://iotube.org/assets_](https://iotube.org/assets)__
+[_https://iotube.org/assets_](https://iotube.org/assets)
 
 ## Developers
 
