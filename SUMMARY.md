@@ -11,10 +11,10 @@
 
 ## Deployment
 
-* [Ethereum](deployment/ethereum-iotex.md)
-* [Binance Smart Chain](deployment/bsc-iotex.md)
-* [Polygon (Matic)](deployment/polygon-iotex.md)
-* [CIOTX (Crosschain IOTX)](deployment/crosschain-tokens.md)
+* [IoTeX Bridge Deployment on Ethereum](deployment/ethereum-iotex.md)
+* [IoTeX Bridge Deployment on BNB Smart Chain](deployment/bsc-iotex.md)
+* [IoTeX Bridge Deployment on Polygon](deployment/polygon-iotex.md)
+* [CIOTX (Crosschain IOTX) Deployments](deployment/crosschain-tokens.md)
 
 ## Extra <a href="#token-naming" id="token-naming"></a>
 
