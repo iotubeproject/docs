@@ -13,6 +13,7 @@ You can currently use ioTube to bridge tokens from the following blockchains to 
 * Ethereum
 * Binance Smart Chain
 * Polygon
+* Solana&#x20;
 
 ### Guidelines for tokens
 
@@ -54,5 +55,7 @@ Please make the fee payment to `0x571e603e3B5c82Bd40998C538603dF4fb42bB051` or `
 
 Please send a few test tokens ($1-$10 worth) to wallet: `0x571e603e3B5c82Bd40998C538603dF4fb42bB051 / io12u0xq03mtjpt6sye33fcvq7lf76zhvz3yvt8q0`
 
-
+{% hint style="info" %}
+NOTE: While we'll help coordinating listing your token on the [Mimo DEX](https://mimo.exchange/), you'll be responsible for listing your token on various DEXs on the other chains.&#x20;
+{% endhint %}
 
