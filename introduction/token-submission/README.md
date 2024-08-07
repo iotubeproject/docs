@@ -46,6 +46,7 @@ There is a one-time fee to cover the smart contract deployment and testing. The 
 | From/To BSC       | 0.1 BNB         |
 | From/To Matic     | 20 MATIC        |
 | From/To Ethereum  | 0.3 ETH         |
+| From/To Solana    | 0.005 SOL       |
 
 If your request involves multiple blockchains, you may add them up as the integration fee.
 
