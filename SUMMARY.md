@@ -20,3 +20,4 @@
 
 * [Naming Convention](token-naming/naming-convention.md)
 * [Join the Bridge consensus](token-naming/join-the-bridge-consensus.md)
+* [USDC](token-naming/usdc.md)
