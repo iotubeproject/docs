@@ -8,6 +8,10 @@ ioTube, the official bridge of IoTeX, introduced ioUSDC, a bridged token from Et
 
 By implementing the proposed deployment and migration strategy, IoTeX will enhance its DeFi ecosystem's compatibility and ensure seamless token transactions for users. This initiative will leverage Circle's standard token format, positioning IoTeX for future integrations and improvements.
 
+{% hint style="info" %}
+Auto conversion of ioUSDC to USDC.e is going to be supported in the next release of ioTube in Nov 2024.
+{% endhint %}
+
 ### Tutorial Below:
 
 **Bridging USDC from Ethereum network to IoTeX network**
