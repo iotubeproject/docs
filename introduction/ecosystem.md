@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Ecosystem
 
 ### **The IoTeX Cross-Chain Ecosystem** <a href="#the-iotex-cross-chain-ecosystem" id="the-iotex-cross-chain-ecosystem"></a>
