@@ -39,22 +39,15 @@ Please provide the verification of your token in one of the following ways:
 
 ### Integration Fee
 
-There is a one-time fee to cover the smart contract deployment and testing. The current fee structure is&#x20;
-
-| Blockchains       | Integration Fee |
-| ----------------- | --------------- |
-| From/To BSC       | 0.1 BNB         |
-| From/To Matic     | 20 MATIC        |
-| From/To Ethereum  | 0.3 ETH         |
-| From/To Solana    | 0.005 SOL       |
+There is a one-time fee `200 USD` to cover the smart contract deployment and testing.&#x20;
 
 If your request involves multiple blockchains, you may add them up as the integration fee.
 
-Please make the fee payment to `0x571e603e3B5c82Bd40998C538603dF4fb42bB051` or `io12u0xq03mtjpt6sye33fcvq7lf76zhvz3yvt8q0` and include the payment txn link in the token submission.
+Please make the fee payment (preferably convert the fee into the native coin on the blockchain your token is located) to `0x571e603e3B5c82Bd40998C538603dF4fb42bB051` and include the payment txn link in the token submission.
 
 ### Send test tokens
 
-Please send a few test tokens ($1-$10 worth) to wallet: `0x571e603e3B5c82Bd40998C538603dF4fb42bB051 / io12u0xq03mtjpt6sye33fcvq7lf76zhvz3yvt8q0`
+Please send a few test tokens ($1-$10 worth) to wallet: `0x571e603e3B5c82Bd40998C538603dF4fb42bB051`
 
 {% hint style="info" %}
 NOTE: While we'll help coordinating listing your token on the [Mimo DEX](https://mimo.exchange/), you'll be responsible for listing your token on various DEXs on the other chains.&#x20;

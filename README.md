@@ -4,22 +4,9 @@
 
 [ioTube](https://iotube.org) is a cross-chain bridge designed to be decentralized, multi-chain, and multi-asset.
 
-[ioTube ](https://iotube.org/)enables bi-directional exchange of tokens between [IoTeX](https://iotex), [Ethereum](https://ethereum.org), [Binance Smart Chain](https://www.binance.org/en/smartChain), and now [Polygon](https://polygon.technology/)!&#x20;
+[ioTube ](https://iotube.org/)enables bi-directional exchange of tokens between IoTeX, Ethereum, Binance Smart Chain, Polygon, and Solana.
 
-![](.gitbook/assets/image.png)
-
-### ioTube v5
-
-ioTube v5 is a major upgrade to our already sophisticated cross-chain bridge. With support for [20+ assets](https://tube.iotex.io/assets) from Polygon, Ethereum, and BSC, IoTeX is now one of the most connected blockchains in the industry!&#x20;
-
-We are excited to take this major leap in expanding the footprint of IoTeX to three of the largest blockchains in the world and broadening the utility of `IOTX` and `XRC20` tokens.
-
-Even better, we have fully open-sourced ioTube v5 on [GitHub](https://github.com/iotexproject/ioTube) and made it compatible with Web3 wallets (e.g., MetaMask, ioPay Mobile) for an incredible user experience. This major cross-chain bridge update includes the following features:
-
-* **Polygon Support:** transfer tokens with ultra-low fees between IoTeX and Polygon. ioTube v5 supports a variety of Polygon assets, including `MATIC`, `WETH`, `WBTC`, `DAI`, `USDT`, `USDC`, `SUSHI`, `QUICK`, `CYC`
-* **Web3-compatibility:** use your favorite Web3 wallet (e.g., MetaMask, ioPay Mobile) to access ioTube v5 anytime, anywhere
-* **Enhanced Performance:** ioTube v5 is faster than ever with ultra-low fees enabling users to bridge assets cross-chain with confidence
-* [**Cross-chain Explorer**](https://tube.iotex.io/explorer#iotex)**:** see real-time analytics of all cross-chain transactions in addition to other analytics such as total TVL, chains, and assets
+<figure><img src="https://private-user-images.githubusercontent.com/448293/381777586-83c4558d-108b-4e18-83f4-1e2ed931f639.jpeg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzA3NDg4NTUsIm5iZiI6MTczMDc0ODU1NSwicGF0aCI6Ii80NDgyOTMvMzgxNzc3NTg2LTgzYzQ1NThkLTEwOGItNGUxOC04M2Y0LTFlMmVkOTMxZjYzOS5qcGVnP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI0MTEwNCUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNDExMDRUMTkyOTE1WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9ODUzZjg3YzQ3ODFhZTAzYWFmMTE3ZTFlOWNlNzM0Zjk1ZGNkOTUwZTA4YWE4MDZmZjIxZDViMDFiZWYxOTg3ZSZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QifQ.ZocOoJWUya9VUShhLRdwGYSvgnRTcJr38mV-QhCHpMA" alt=""><figcaption></figcaption></figure>
 
 ### **Ready to get started?**&#x20;
 
@@ -29,6 +16,4 @@ Check out our step-by-step tutorials on how to convert tokens between [Polygon-I
 
 For any questions, please reach out to an Admin on [Discord](https://iotex.io/devdiscord) or [Telegram](https://t.me/IoTeXGroup).
 
-⭐️ **IoTeX & Polygon:** _learn more about our_ [_partnership_](https://iotex.medium.com/iotex-polygon-matic-partner-for-real-world-nfts-on-opensea-cross-chain-bridge-8506e5e23773) _with Polygon._
-
-⭐ **New ioTube URL:** _access ioTube at our new URL_ [_iotube.org_](https://iotube.org/)
+⭐ Hosting at: [https://bridge.iotex.io/](https://bridge.iotex.io/)
