@@ -2,12 +2,13 @@
 
 ## Past naming convention
 
-iotube is currently supporting **28** assets from **4** different blockchains
+iotube is currently supporting **28** assets from 5 different blockchains
 
 * IoTeX
 * Ethereum
 * Binance Smart Chain
-* Polygon.&#x20;
+* Polygon
+* Solana
 
 Historically, assets from Ethereum bridged via iotube to IoTeX were named _`ioABC`_ (where _`ABC`_ is the symbol in the original blockchain). Assets from Binance Smart Chain were named _`ABC-bsc`_. Assets from Polygon were named _`ABC-matic`_. While this format is accurate, it is long and complex.&#x20;
 
