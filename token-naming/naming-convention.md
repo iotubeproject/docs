@@ -1,67 +1,36 @@
 # Naming Convention
 
-## Past naming convention
+## Naming Convention&#x20;
 
-iotube is currently supporting **28** assets from 5 different blockchains
+There was a [governance proposal](https://gov.iotex.io/#/iotex.eth/proposal/QmbWqwVEmv4ArVgiki19oPBjYDZmZvLnjSpGieo3MtSQBD),  iotube and all IoTeX ecosystem projects following a new convention for cross-chain tokens naming and display symbols. But due to the impossible of changing the symbol and name of the tokens, many dapps, especially DeFI protocols are still using the hard coded symbol in smart contracts. Also,  USDC.e based on Circle's token standard was [introduced](https://iotex.io/blog/usdc-e-on-iotex-a-new-stablecoin-standard-for-depin/). So we are using the ioUSDC for the old USDC bridged to IoTeX from Ethereum and USDC.e is the new bridged USDC tokens.&#x20;
 
-* IoTeX
-* Ethereum
-* Binance Smart Chain
-* Polygon
-* Solana
+The following chart is a summary of the token names that may be used interchangably.
 
-Historically, assets from Ethereum bridged via iotube to IoTeX were named _`ioABC`_ (where _`ABC`_ is the symbol in the original blockchain). Assets from Binance Smart Chain were named _`ABC-bsc`_. Assets from Polygon were named _`ABC-matic`_. While this format is accurate, it is long and complex.&#x20;
 
-## Current Naming convention
 
-After a [governance proposal](https://gov.iotex.io/#/iotex.eth/proposal/QmbWqwVEmv4ArVgiki19oPBjYDZmZvLnjSpGieo3MtSQBD),  iotube and all IoTeX ecosystem projects will follow a new convention for cross-chain tokens naming and display symbols.
+A governance [proposal](https://gov.iotex.io/#/iotex.eth/proposal/QmbWqwVEmv4ArVgiki19oPBjYDZmZvLnjSpGieo3MtSQBD) was introduced to standardize the naming and display symbols for cross-chain tokens across IoTube and all IoTeX ecosystem projects. However, changing the symbol and name of existing tokens has proven difficult. As a result, many dApps, particularly DeFi protocols, continue to use hard-coded symbols within their smart contracts. Additionally, USDC.e, based on Circle’s token standard, was [introduced](https://iotex.io/blog/usdc-e-on-iotex-a-new-stablecoin-standard-for-depin/). Consequently, the old USDC tokens bridged from Ethereum to IoTeX are referred to as _ioUSDC_, while the new bridged USDC tokens are labeled as _USDC.e_.
 
-In short, the naming convention says to:
 
-1.  Leave the token symbol **unchanged** for
 
-    → any _native_ tokens bridged _from their origin blockchain_. For example, `ETH` from Ethereum, `BNB` from Binance Smart Chain, `MATIC` from Polygon.
-
-    → any layer-2 tokens bridged from their origin blockchain. For example, most stable coins on the Ethereum blockchain like `USDT`, `USDC`, `UNI`, etc...
-2. Add a **short suffix** to any tokens that come from a blockchain that _is not their origin network_. For example, `USDC` from Polygon becomes `USDC_m`, `USDT` from Binance Smart Chain becomes `USDT_b`.
-
-## Examples&#x20;
-
-### Bridged from Ethereum
-
-| Symbol on Ethereum | Symbol on IoTeX (old) | Symbol on IoTeX (new) |
-| ------------------ | --------------------- | --------------------- |
-| `ETH/WETH`         | `ioETH`               | `ETH`                 |
-| `USDT`             | `ioUSDT`              | `USDT`                |
-| `USDC`             | `ioUSDC`              | `USDC`                |
-| `DAI`              | `ioDAI`               | `DAI`                 |
-| `UNI`              | `ioUNI`               | `UNI`                 |
-| `WBTC`             | `ioWBTC`              | `WBTC`                |
-| `PAXG`             | `ioPAXG`              | `PAXG`                |
-| `MCN/CMCN`         | `MCN`                 | `MCN`                 |
-| `CYC`              | `CYC`                 | `CYC`                 |
+<table><thead><tr><th width="209">Symbol on Ethereum</th><th width="165.33333333333331">Symbol on IoTeX </th><th>Also known as</th></tr></thead><tbody><tr><td><code>ETH</code></td><td><code>ioETH</code></td><td><code>ETH</code></td></tr><tr><td><code>USDT</code></td><td><code>ioUSDT</code></td><td><code>USDT</code></td></tr><tr><td><code>USDC</code></td><td><code>USDC.e</code></td><td>old token was ioUSDC. All ioUSDC can be converted to USDC.e</td></tr><tr><td><code>DAI</code></td><td><code>ioDAI</code></td><td><code>DAI</code></td></tr><tr><td><code>UNI</code></td><td><code>ioUNI</code></td><td><code>UNI</code></td></tr><tr><td><code>WBTC</code></td><td><code>ioWBTC</code></td><td><code>WBTC</code></td></tr></tbody></table>
 
 ### Bridged from BSC
 
-<table><thead><tr><th width="183.80672258908592">Symbol on BSC</th><th width="285.5917058897972">Symbol on IoTeX</th><th>Symbol on IoTeX (new)</th></tr></thead><tbody><tr><td><code>BNB/WBNB</code></td><td><code>BNB-bsc</code></td><td><code>BNB</code></td></tr><tr><td><code>BUSD</code></td><td><code>BUSD-bsc</code></td><td><code>BUSD_b</code></td></tr></tbody></table>
+<table><thead><tr><th width="183.80672258908592">Symbol on BSC</th><th width="285.5917058897972">Symbol on IoTeX</th><th>Also known as</th></tr></thead><tbody><tr><td><code>BNB</code></td><td><code>BNB-bsc</code></td><td><code>BNB</code></td></tr><tr><td><code>BUSD</code></td><td><code>BUSD-bsc</code></td><td><code>BUSD_b</code></td></tr></tbody></table>
 
 ### Tokens bridged from Polygon
 
-| Symbol on Polgyon | Symbol on IoTeX (old) | Symbol on IoTeX (new) |
-| ----------------- | --------------------- | --------------------- |
-| `Matic/WMatic`    | `WMatic`              | `Matic`               |
-| `WETH`            | `WETH-matic`          | `WETH_m`              |
-| `WBTC`            | `WBTC-matic`          | `WBTC_m`              |
-| `DAI`             | `DAI-maitc`           | `DAI_m`               |
-| `USDT`            | `USDT-matic`          | `USDT_m`              |
-| `USDC`            | `USDC-matic`          | `USDC_m`              |
-| `Sushi`           | `SUSHI-matic`         | `Sushi_m`             |
-| `QUICK`           | `QUICK-matic`         | `QUICK_m`             |
-| AAVE              | AAVE-matic            | AAVE\_m               |
-
-_For the full list of all tokens supported by iotube, please visit_
-
-[_https://iotube.org/assets_](https://iotube.org/assets)
+| Symbol on Polgyon | Symbol on IoTeX  | Also known as |
+| ----------------- | ---------------- | ------------- |
+| `Matic/WMatic`    | `WMatic`         | `Matic/POL`   |
+| `WETH`            | `WETH-matic`     | `WETH_m`      |
+| `WBTC`            | `WBTC-matic`     | `WBTC_m`      |
+| `DAI`             | `DAI-maitc`      | `DAI_m`       |
+| `USDT`            | `USDT-matic`     | `USDT_m`      |
+| `USDC`            | `USDC-matic`     | `USDC_m`      |
+| `Sushi`           | `SUSHI-matic`    | `Sushi_m`     |
+| `QUICK`           | `QUICK-matic`    | `QUICK_m`     |
+| AAVE              | AAVE-matic       | AAVE\_m       |
 
 ## Developers
 
