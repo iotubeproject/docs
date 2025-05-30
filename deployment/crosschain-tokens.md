@@ -1,6 +1,6 @@
-# CIOTX (Crosschain IOTX)
+# CIOTX (Crosschain IOTX) Deployments
 
-Crosschain IOTX or `CIOTX`, is a _wrapped_ token of IOTX that can be bridged to any network via [iotube.org](https://iotube.org). You can wrap or unwrap a token at a 1:1 ratio anytime.&#x20;
+Crosschain IOTX or `CIOTX`, is a _wrapped_ token of IOTX that can be bridged to any network via [iotube.org](https://iotube.org). You can wrap or unwrap a token at a 1:1 ratio anytime. The CIOTX on Solana is bridged via `Wormhole NTT` from CIOTX on Ethereum.
 
 
 
@@ -10,7 +10,7 @@ Crosschain IOTX or `CIOTX`, is a _wrapped_ token of IOTX that can be bridged to 
 
 #### CrossChain IOTX (CIOTX)
 
-<table><thead><tr><th width="150">Blockchain</th><th width="150">Symbol</th><th width="631.9017823663225">Contract Address</th><th data-hidden>Token</th></tr></thead><tbody><tr><td>IoTeX</td><td><code>CIOTX</code></td><td><code>0x99B2B0eFb56E62E36960c20cD5ca8eC6ABD5557A</code></td><td>CIOTX</td></tr><tr><td>Polygon</td><td><code>CIOTX</code></td><td><code>0x300211Def2a644b036A9bdd3e58159bb2074d388</code></td><td>CIOTX on Polygon: </td></tr><tr><td>BSC</td><td><code>CIOTX</code></td><td><code>0x2aaF50869739e317AB80A57Bf87cAA35F5b60598</code></td><td>CIOTX</td></tr><tr><td>Ethereum</td><td><code>CIOTX</code></td><td><code>0x9F90B457Dea25eF802E38D470ddA7343691D8FE1</code></td><td></td></tr></tbody></table>
+<table><thead><tr><th width="150">Blockchain</th><th width="150">Symbol</th><th width="631.9017823663225">Contract Address</th><th data-hidden>Token</th></tr></thead><tbody><tr><td>IoTeX</td><td><code>CIOTX</code></td><td><code>0x99B2B0eFb56E62E36960c20cD5ca8eC6ABD5557A</code></td><td>CIOTX</td></tr><tr><td>Polygon</td><td><code>CIOTX</code></td><td><code>0x300211Def2a644b036A9bdd3e58159bb2074d388</code></td><td>CIOTX on Polygon: </td></tr><tr><td>BSC</td><td><code>CIOTX</code></td><td><code>0x2aaF50869739e317AB80A57Bf87cAA35F5b60598</code></td><td>CIOTX</td></tr><tr><td>Ethereum</td><td><code>CIOTX</code></td><td><code>0x9F90B457Dea25eF802E38D470ddA7343691D8FE1</code></td><td></td></tr><tr><td>Solana</td><td><code>IOTX</code></td><td><code>QUUzqeiXHxjs9Yxm33tvugvUsKr5T8vjeyV4XhVsAfZ</code></td><td></td></tr></tbody></table>
 
 
 
