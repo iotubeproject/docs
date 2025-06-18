@@ -22,3 +22,7 @@
 * [Naming Convention](token-naming/naming-convention.md)
 * [Join the Bridge consensus](token-naming/join-the-bridge-consensus.md)
 * [USDC on IoTeX Tutorial](token-naming/usdc-on-iotex-tutorial.md)
+
+***
+
+* [Audits](audits.md)

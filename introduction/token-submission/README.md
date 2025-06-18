@@ -2,7 +2,7 @@
 
 ### Extend your dApp to IoTeX
 
-Any dApp developer that has deployed a token on any of the blockchains supported by ioTube can [submit their token](https://github.com/iotubeproject/ioTube/issues/new?assignees=guo\&labels=Token-Pending-Review\&template=iotube-new-token-submission.md\&title=New+Token+submission) to be added to the bridge. Together with IoTeX's full [Web3 compatibility](broken-reference), you can now extend your dApp to IoTeX in no time, gaining access to trusted [verifiable IoT data](broken-reference), and run transaction-intensive tasks thanks to the IoTeX **ultra-fast** and low-fees transactions**.**
+Any dApp developer that has deployed a token on any of the blockchains supported by ioTube can [submit their token](https://github.com/iotubeproject/ioTube/issues/new?assignees=guo\&labels=Token-Pending-Review\&template=iotube-new-token-submission.md\&title=New+Token+submission) to be added to the bridge. Together with IoTeX's full [Web3 compatibility](broken-reference), you can now extend your dApp to IoTeX in no time, gaining access to trusted [verifiable IoT data](broken-reference), and run transaction-intensive tasks thanks to the IoTeX **ultra-fast** and low-fees transaction&#x73;**.**
 
 👉 [**Submit your token to ioTube**](https://github.com/iotexproject/ioTube/issues/new?assignees=guo\&labels=Token-Pending-Review\&template=iotube-new-token-submission.md\&title=New+Token+submission)
 
