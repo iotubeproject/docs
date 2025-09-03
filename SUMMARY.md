@@ -15,6 +15,7 @@
 * [IoTeX Bridge Deployment on BNB Smart Chain](deployment/bsc-iotex.md)
 * [IoTeX Bridge Deployment on Polygon](deployment/polygon-iotex.md)
 * [IoTeX Bridge Deployment on Solana](deployment/iotex-bridge-deployment-on-solana.md)
+* [IoTeX TestNet Bridge Deployment on BNB Smart Chain TestNet](deployment/bsc-iotex-1.md)
 * [CIOTX (Crosschain IOTX) Deployments](deployment/crosschain-tokens.md)
 
 ## Extra <a href="#token-naming" id="token-naming"></a>
