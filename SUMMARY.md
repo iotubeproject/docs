@@ -15,14 +15,17 @@
 * [IoTeX Bridge Deployment on BNB Smart Chain](deployment/bsc-iotex.md)
 * [IoTeX Bridge Deployment on Polygon](deployment/polygon-iotex.md)
 * [IoTeX Bridge Deployment on Solana](deployment/iotex-bridge-deployment-on-solana.md)
-* [IoTeX TestNet Bridge Deployment on BNB Smart Chain TestNet](deployment/bsc-iotex-1.md)
 * [CIOTX (Crosschain IOTX) Deployments](deployment/crosschain-tokens.md)
+
+## Testnet Deployment
+
+* [IoTeX Testnet Bridge Deployment on BNB Smart Chain (BSC) TestNet](testnet-deployment/bsc-iotex.md)
 
 ## Extra <a href="#token-naming" id="token-naming"></a>
 
 * [Naming Convention](token-naming/naming-convention.md)
-* [Join the Bridge consensus](token-naming/join-the-bridge-consensus.md)
 * [USDC on IoTeX Tutorial](token-naming/usdc-on-iotex-tutorial.md)
+* [Join the Bridge consensus](token-naming/join-the-bridge-consensus.md)
 
 ***
 
